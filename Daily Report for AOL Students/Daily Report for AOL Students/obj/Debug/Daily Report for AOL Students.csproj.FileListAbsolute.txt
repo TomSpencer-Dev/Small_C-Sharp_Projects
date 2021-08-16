@@ -1,0 +1,7 @@
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Daily Report for AOL Students\Daily Report for AOL Students\bin\Debug\Daily Report for AOL Students.exe.config
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Daily Report for AOL Students\Daily Report for AOL Students\bin\Debug\Daily Report for AOL Students.exe
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Daily Report for AOL Students\Daily Report for AOL Students\bin\Debug\Daily Report for AOL Students.pdb
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Daily Report for AOL Students\Daily Report for AOL Students\obj\Debug\Daily Report for AOL Students.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Daily Report for AOL Students\Daily Report for AOL Students\obj\Debug\Daily Report for AOL Students.exe
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Daily Report for AOL Students\Daily Report for AOL Students\obj\Debug\Daily Report for AOL Students.pdb
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Daily Report for AOL Students\Daily Report for AOL Students\obj\Debug\Daily Report for AOL Students.csproj.AssemblyReference.cache
