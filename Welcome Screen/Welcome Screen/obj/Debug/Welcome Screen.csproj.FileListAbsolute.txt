@@ -1,0 +1,6 @@
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Welcome Screen\Welcome Screen\bin\Debug\Welcome Screen.exe.config
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Welcome Screen\Welcome Screen\bin\Debug\Welcome Screen.exe
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Welcome Screen\Welcome Screen\bin\Debug\Welcome Screen.pdb
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Welcome Screen\Welcome Screen\obj\Debug\Welcome Screen.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Welcome Screen\Welcome Screen\obj\Debug\Welcome Screen.exe
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Welcome Screen\Welcome Screen\obj\Debug\Welcome Screen.pdb
