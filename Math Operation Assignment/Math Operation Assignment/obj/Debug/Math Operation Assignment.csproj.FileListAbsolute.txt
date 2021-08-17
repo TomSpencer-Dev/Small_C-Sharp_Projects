@@ -1,0 +1,7 @@
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Math Operation Assignment\Math Operation Assignment\obj\Debug\Math Operation Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Math Operation Assignment\Math Operation Assignment\bin\Debug\Math Operation Assignment.exe.config
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Math Operation Assignment\Math Operation Assignment\bin\Debug\Math Operation Assignment.exe
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Math Operation Assignment\Math Operation Assignment\bin\Debug\Math Operation Assignment.pdb
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Math Operation Assignment\Math Operation Assignment\obj\Debug\Math Operation Assignment.exe
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Math Operation Assignment\Math Operation Assignment\obj\Debug\Math Operation Assignment.pdb
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Math Operation Assignment\Math Operation Assignment\obj\Debug\Math Operation Assignment.csproj.AssemblyReference.cache
