@@ -15,9 +15,13 @@ namespace Car_Insurance_Approval_Program
             string num1 = Console.ReadLine();
             int age = Convert.ToInt32(num1);
 
-            Console.WriteLine("How many DUIs do you have?");
-            string num2 = Console.ReadLine();
-            int dui = Convert.ToInt32(num2); 
+            Console.WriteLine("Have you ever had a DUI?\n\ntrue or false?");
+            string textBoxAnswer = Console.ReadLine();
+            bool dui = Convert.ToBoolean(textBoxAnswer);
+           
+                
+
+            
 
 
             Console.WriteLine("How many speeding tickets do you have?");
@@ -25,7 +29,7 @@ namespace Car_Insurance_Approval_Program
             int tickets = Convert.ToInt32(num3);
 
             Console.WriteLine("Qualified?");
-            Console.WriteLine(age > 15 && dui == 0 && tickets <= 3);
+            Console.WriteLine(age > 15 && dui == false && tickets <= 3);
             Console.ReadLine();
             
             
