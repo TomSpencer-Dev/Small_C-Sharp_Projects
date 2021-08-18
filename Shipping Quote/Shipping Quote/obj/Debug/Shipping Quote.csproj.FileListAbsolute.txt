@@ -1,0 +1,7 @@
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Shipping Quote\Shipping Quote\bin\Debug\Shipping Quote.exe.config
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Shipping Quote\Shipping Quote\bin\Debug\Shipping Quote.exe
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Shipping Quote\Shipping Quote\bin\Debug\Shipping Quote.pdb
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Shipping Quote\Shipping Quote\obj\Debug\Shipping Quote.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Shipping Quote\Shipping Quote\obj\Debug\Shipping Quote.exe
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Shipping Quote\Shipping Quote\obj\Debug\Shipping Quote.pdb
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Shipping Quote\Shipping Quote\obj\Debug\Shipping Quote.csproj.AssemblyReference.cache
