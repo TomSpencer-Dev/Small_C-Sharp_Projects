@@ -22,7 +22,10 @@ namespace Strings
 
             StringBuilder sb = new StringBuilder();
 
-            sb.Append("Hello, how are you?");
+            sb.Append("The dog went to the park.");
+            sb.Append(" The owner, Greg, didn't know where his dog was.");
+            sb.Append(" So he whistled.");
+            sb.Append(" His dog heard the whistles and ran home.");
 
             Console.WriteLine(sb);
             Console.ReadLine();
