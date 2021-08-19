@@ -1,0 +1,6 @@
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Strings\Strings\obj\Debug\Strings.pdb
