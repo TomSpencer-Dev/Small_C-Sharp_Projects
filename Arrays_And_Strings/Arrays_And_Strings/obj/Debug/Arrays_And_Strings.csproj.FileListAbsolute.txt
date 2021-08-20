@@ -1,0 +1,7 @@
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Arrays_And_Strings\Arrays_And_Strings\obj\Debug\Arrays_And_Strings.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Arrays_And_Strings\Arrays_And_Strings\bin\Debug\Arrays_And_Strings.exe.config
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Arrays_And_Strings\Arrays_And_Strings\bin\Debug\Arrays_And_Strings.exe
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Arrays_And_Strings\Arrays_And_Strings\bin\Debug\Arrays_And_Strings.pdb
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Arrays_And_Strings\Arrays_And_Strings\obj\Debug\Arrays_And_Strings.csproj.AssemblyReference.cache
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Arrays_And_Strings\Arrays_And_Strings\obj\Debug\Arrays_And_Strings.exe
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Arrays_And_Strings\Arrays_And_Strings\obj\Debug\Arrays_And_Strings.pdb
