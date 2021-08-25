@@ -1,0 +1,7 @@
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Classes_And_Methods_1\Classes_And_Methods_1\bin\Debug\Classes_And_Methods_1.exe.config
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Classes_And_Methods_1\Classes_And_Methods_1\bin\Debug\Classes_And_Methods_1.exe
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Classes_And_Methods_1\Classes_And_Methods_1\bin\Debug\Classes_And_Methods_1.pdb
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Classes_And_Methods_1\Classes_And_Methods_1\obj\Debug\Classes_And_Methods_1.csproj.AssemblyReference.cache
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Classes_And_Methods_1\Classes_And_Methods_1\obj\Debug\Classes_And_Methods_1.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Classes_And_Methods_1\Classes_And_Methods_1\obj\Debug\Classes_And_Methods_1.exe
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Classes_And_Methods_1\Classes_And_Methods_1\obj\Debug\Classes_And_Methods_1.pdb
