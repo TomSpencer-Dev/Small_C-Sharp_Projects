@@ -1,0 +1,7 @@
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Inheritence\Inheritence\obj\Debug\Inheritence.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Inheritence\Inheritence\bin\Debug\Inheritence.exe.config
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Inheritence\Inheritence\bin\Debug\Inheritence.exe
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Inheritence\Inheritence\bin\Debug\Inheritence.pdb
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Inheritence\Inheritence\obj\Debug\Inheritence.exe
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Inheritence\Inheritence\obj\Debug\Inheritence.pdb
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Inheritence\Inheritence\obj\Debug\Inheritence.csproj.AssemblyReference.cache
