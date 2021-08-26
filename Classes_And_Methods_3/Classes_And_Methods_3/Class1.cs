@@ -8,11 +8,11 @@ namespace Classes_And_Methods_3
 {
     public class Math_Operation
     {
-        public void Passing_In_Two_Numbers(int num1, int num2)
+        public void Passing_In_Two_Numbers(int firstInput, int secondInput)
         { 
 
-            int result = num1 + 5;
-            Console.WriteLine(num2);
+            int result = firstInput + 5;
+            Console.WriteLine(secondInput);
 
         }
 
