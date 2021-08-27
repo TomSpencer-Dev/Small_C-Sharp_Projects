@@ -10,12 +10,12 @@ namespace Inheritence
     {
         static void Main(string[] args)
         {
-            Employee quit = new IQuittable();
-            quit.Quit();         
             Employee employee = new Employee();
+            IQuittable employee2 = new Employee();
             employee.FirstName = "Sample";
             employee.LastName = "Student";
             employee.SayName();
+            employee2.Quit();
             Console.ReadLine();
         }
     }

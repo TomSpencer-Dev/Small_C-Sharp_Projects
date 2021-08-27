@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Inheritence
 {
-    interface IQuittable
+    public interface IQuittable
     {
-        void Quit(Person person);
+        void Quit();
     }
 }
