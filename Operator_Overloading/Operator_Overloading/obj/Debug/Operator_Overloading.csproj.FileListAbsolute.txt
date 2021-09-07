@@ -1,0 +1,7 @@
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Operator_Overloading\Operator_Overloading\bin\Debug\Operator_Overloading.exe.config
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Operator_Overloading\Operator_Overloading\bin\Debug\Operator_Overloading.exe
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Operator_Overloading\Operator_Overloading\bin\Debug\Operator_Overloading.pdb
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Operator_Overloading\Operator_Overloading\obj\Debug\Operator_Overloading.csproj.AssemblyReference.cache
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Operator_Overloading\Operator_Overloading\obj\Debug\Operator_Overloading.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Operator_Overloading\Operator_Overloading\obj\Debug\Operator_Overloading.exe
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Operator_Overloading\Operator_Overloading\obj\Debug\Operator_Overloading.pdb
