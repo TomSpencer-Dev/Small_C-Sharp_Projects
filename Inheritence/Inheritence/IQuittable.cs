@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Inheritence
-{
-    public interface IQuittable
-    {
-        void Quit();
-    }
-}
+//namespace Inheritence
+//{
+//    public interface IQuittable
+//    {
+//        void Quit();
+//    }
+//}

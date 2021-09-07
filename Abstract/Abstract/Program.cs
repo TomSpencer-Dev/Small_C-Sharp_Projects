@@ -13,8 +13,16 @@ namespace Abstract
             Employee employee = new Employee();
             employee.FirstName = "Sample";
             employee.LastName = "Student";
+            employee.EmpID = 1;
+            employee.FirstName = "Sample";
+            employee.LastName = "Student";
+            employee.EmpID = 1;
             employee.SayName();
             Console.ReadLine();
+            employee.SayName();
+            Console.ReadLine();
+
+        
         }
     }
 }

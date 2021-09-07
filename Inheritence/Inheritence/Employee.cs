@@ -6,19 +6,19 @@ using System.Threading.Tasks;
 
 namespace Inheritence
 {
-    public class Employee : Person, IQuittable
+    public class Employee : Person
     {
-        public int Id { get; set; }
+        //public int Id { get; set; }
 
 
-        public void Quit()
-        {
-            Console.WriteLine("I quit");
-        }
-        public void Quit(Employee employee)
-        {
-            throw new NotImplementedException();
-        }
+        //public void Quit()
+        //{
+        //    Console.WriteLine("I quit");
+        //}
+        //public void Quit(Employee employee)
+        //{
+        //    throw new NotImplementedException();
+        //}
 
 
     }    

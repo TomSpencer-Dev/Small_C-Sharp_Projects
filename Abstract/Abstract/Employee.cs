@@ -10,7 +10,7 @@ namespace Abstract
     {
         public override void SayName()
         {
-            Console.WriteLine("Name: " + FirstName + " " + LastName);
+            Console.WriteLine("Employee ID: " + EmpID + "Name: " + FirstName + " " + LastName);
         }
 
        
