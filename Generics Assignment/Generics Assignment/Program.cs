@@ -11,13 +11,26 @@ namespace Generics_Assignment
         static void Main(string[] args)
         {
             Employee<string> name = new Employee<string>();
-            List<string> Things = new List<string>(){ "Bob", "Carol"};
+            List<string> names = new List<string>(){ "Bob", "Carol"};
+            name.things = names;
 
             Employee<int> ID = new Employee<int>();
-            List<int> Things = new List<int>() { 1, 2 };
+            List<int> IDS = new List<int>() { 1, 2 };
+            ID.things = IDS;
 
-          
-            
+            foreach (string item in name.things)
+            {
+                Console.WriteLine(item);
+
+            }
+
+            foreach (int item in ID.things)
+            {
+                Console.WriteLine(item);
+
+            }
+
+            Console.ReadLine();
         }
     }
 }
