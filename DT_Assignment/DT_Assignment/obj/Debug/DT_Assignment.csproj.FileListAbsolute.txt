@@ -1,0 +1,7 @@
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\DT_Assignment\DT_Assignment\bin\Debug\DT_Assignment.exe.config
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\DT_Assignment\DT_Assignment\bin\Debug\DT_Assignment.exe
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\DT_Assignment\DT_Assignment\bin\Debug\DT_Assignment.pdb
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\DT_Assignment\DT_Assignment\obj\Debug\DT_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\DT_Assignment\DT_Assignment\obj\Debug\DT_Assignment.exe
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\DT_Assignment\DT_Assignment\obj\Debug\DT_Assignment.pdb
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\DT_Assignment\DT_Assignment\obj\Debug\DT_Assignment.csproj.AssemblyReference.cache
