@@ -14,7 +14,10 @@ namespace ConsoleApp1
             Console.WriteLine("Please enter a number");
             string text = (Console.ReadLine());
             File.WriteAllText(@"C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\log.txt", text);
-            
+
+            var X = File.ReadAllText(@"C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\log.txt");
+            Console.WriteLine(X);
+            Console.ReadLine();
         }
     }
 }
