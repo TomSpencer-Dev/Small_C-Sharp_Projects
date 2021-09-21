@@ -19,11 +19,9 @@ namespace Additional_Features
             Console.ReadLine();
 
             var name = "Tom";
-            var age = "36";
+            
 
-            Constructor obj = new Constructor();
-            Constructor obj1 = new Constructor(12);
-            Constructor obj2 = new Constructor(36, "Tom");
+           
             
 
 

@@ -4,3 +4,4 @@ C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Ad
 C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Additional_Features\Additional_Features\obj\Debug\Additional_Features.csproj.CoreCompileInputs.cache
 C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Additional_Features\Additional_Features\obj\Debug\Additional_Features.exe
 C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Additional_Features\Additional_Features\obj\Debug\Additional_Features.pdb
+C:\Users\Thomas\Desktop\Coding\Coding\Web Pages\GitHub\Small_C-Sharp_Projects\Additional_Features\Additional_Features\obj\Debug\Additional_Features.csproj.AssemblyReference.cache

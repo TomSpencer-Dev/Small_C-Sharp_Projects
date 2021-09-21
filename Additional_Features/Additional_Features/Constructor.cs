@@ -8,7 +8,7 @@ namespace Additional_Features
 {
     public class Constructor
     {
-        public Constructor()
+        public Constructor():this(10)
         {
 
         }
@@ -18,10 +18,7 @@ namespace Additional_Features
 
         }
 
-        public Constructor(int Age, string Name)
-        {
-
-        }
+       
 
         
            
